@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "JWTAuth",
+    "slug": "JWTAuth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "JWTAuth"
+}
